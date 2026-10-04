@@ -1,0 +1,29 @@
+body {
+    background-color: lightgray;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    color: red;
+}
+
+.author {
+    font-style: italic;
+}
+
+#main-title {
+    text-align: center;
+}
